@@ -9,4 +9,3 @@ Go tracing library for Sysdig's fantastic [tracers](https://sysdig.com/blog/sysd
 
 - https://sysdig.com/blog/sysdig-tracers
 - https://github.com/draios/sysdig/wiki/Tracers
-
